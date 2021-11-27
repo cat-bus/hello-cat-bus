@@ -2,34 +2,14 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+BUS 프로젝트를 진행 하기 위한 가이드
 
-## Getting Started
+## Link
 
-Get started by **creating a new site**.
+[GitHub Main](https://github.com/cat-bus)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+[Team Main](https://github.com/orgs/cat-bus/teams/team-cat-bus)
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+[Gather Town](https://gather.town/app/a1W4maxgYm4FPJbJ/cat_bus)
